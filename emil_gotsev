@@ -1,1 +1,9 @@
-egotsev@gmail.com
+egotsev@gmail.com ---> tova e email-a mu .
+
+                        JAVA !
+
+primitivnite lokalni promenlivi v java se zapisvat v steka !!!
+int p = 5; --> vliza v steka
+
+ako imame Teacher t = new Teacher()
+ako dademe stoinost na t -> primerno t = 1 ---> nasochva t kum Teacher  koito se namira v HEAP-a .... !
