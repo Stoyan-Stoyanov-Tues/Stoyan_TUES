@@ -1,2 +1,3 @@
-...
-Shte gi pisha v kushti !!!
+//kogato nasledqvame klas kluchovata duma e EXTENDS
+//SUPER izvikva bazoviq konstruktor
+// ako imame @Override
